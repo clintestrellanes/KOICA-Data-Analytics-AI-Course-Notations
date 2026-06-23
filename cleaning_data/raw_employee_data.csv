@@ -1,0 +1,11 @@
+Employee_ID,Name,Age,Department,Salary,Join_Date
+101,Alice Smith,28,HR,"$60,000",2020-01-15
+102,bob johnson,34,IT,75000,15/02/2021
+103,CHARLIE BROWN,NaN,IT,80000.5,Jan 10 2019
+104,David Lee,45,Finance,"120,000",2022-11-01
+104,David Lee,45,Finance,"120,000",2022-11-01
+106,Eve Davis,999,hr,55000,2021-06-20
+107,Frank White,29,Marketing,NaN,03-05-2023
+108,Grace Hopper,31,IT,90k,2018/12/01
+109,Heidi Cruz,26,Finance,72000,2023-09-15
+110,Ivan Drago,thirty,Marketing,85000,pending
