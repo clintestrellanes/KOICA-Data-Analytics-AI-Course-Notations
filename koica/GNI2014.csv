@@ -1,0 +1,134 @@
+iso3,country,continent,population,GNI
+BMU,Bermuda,North America,67837,106140
+NOR,Norway,Europe,4676305,103630
+QAT,Qatar,Asia,833285,92200
+CHE,Switzerland,Europe,7604467,88120
+MAC,Macao SAR China,Asia,559846,76270
+LUX,Luxembourg,Europe,491775,75990
+AUS,Australia,Oceania,21262641,64540
+SWE,Sweden,Europe,9249309,61760
+DNK,Denmark,Europe,5493621,61110
+SGP,Singapore,Asia,4657542,55150
+USA,United States,North America,313973000,55200
+CAN,Canada,North America,33487208,51630
+NLD,Netherlands,Europe,16645313,51270
+AUT,Austria,Europe,8217280,49670
+FIN,Finland,Europe,5250275,48420
+DEU,Germany,Europe,82329758,47640
+BEL,Belgium,Europe,10414336,46950
+ISL,Iceland,Europe,304334,46350
+IRL,Ireland,Europe,4425675,43490
+GBR,United Kingdom,Europe,61838154,43430
+FRA,France,Europe,65073482,42960
+JPN,Japan,Asia,127156358,42000
+NZL,New Zealand,Oceania,4292306,38780
+ISR,Israel,Asia,7233701,35320
+ITA,Italy,Europe,58145321,34270
+ESP,Spain,Europe,46030109,29180
+KWT,Kuwait,Asia,3506982,43890
+ARE,United Arab Emirates,Asia,4621399,43470
+BRN,Brunei Darussalam,Asia,395027,37021
+HKG,Hong Kong SAR China,Asia,7061200,40320
+CYP,Cyprus,Europe,1084748,26370
+SVN,Slovenia,Europe,2007711,23580
+CZE,Czech Republic,Europe,10211904,18390
+SVK,Slovakia,Europe,5455407,17810
+EST,Estonia,Europe,1307605,17370
+PRT,Portugal,Europe,10707924,20620
+MLT,Malta,Europe,403000,21000
+HUN,Hungary,Europe,9905596,13340
+POL,Poland,Europe,38500696,13240
+LTV,Latvia,Europe,2231503,14060
+LTU,Lithuania,Europe,3535547,14900
+GRC,Greece,Europe,11000000,21680
+KOR,Korea Rep.,Asia,48955203,27090
+SAU,Saudi Arabia,Asia,28686633,24030
+BHS,Bahamas The,North America,309156,20980
+TTO,Trinidad and Tobago,North America,1310000,20070
+PRI,Puerto Rico,North America,3971020,19310
+BRB,Barbados,North America,284589,15310
+KNA,St. Kitts and Nevis,North America,40131,14920
+ATG,Antigua and Barbuda,North America,85632,13300
+PAN,Panama,North America,3360474,11130
+CRI,Costa Rica,North America,4253877,10120
+MEX,Mexico,North America,111211789,9870
+GRD,Grenada,North America,90739,7910
+VEN,Venezuela,South America,28946101,12550
+URY,Uruguay,South America,3494382,15180
+CHL,Chile,South America,17094270,14910
+ARG,Argentina,South America,40738000,12510
+BRA,Brazil,South America,198739269,11790
+COL,Colombia,South America,45644023,7970
+PER,Peru,South America,29076512,6360
+ECU,Ecuador,South America,14573101,5760
+PRY,Paraguay,South America,6349000,4290
+BOL,Bolivia,South America,10907778,2830
+GUY,Guyana,South America,772298,3750
+SUR,Suriname,South America,481267,9260
+ZAF,South Africa,Africa,49320500,6800
+NAM,Namibia,Africa,2108665,5630
+BWA,Botswana,Africa,1990876,7240
+GAB,Gabon,Africa,1475000,9720
+MUS,Mauritius,Seven seas (open ocean),1284264,9630
+SYC,Seychelles,Seven seas (open ocean),84600,12530
+EGY,Egypt,Africa,83688164,3050
+MAR,Morocco,Africa,31627428,2900
+TUN,Tunisia,Africa,10589025,4180
+DZA,Algeria,Africa,34895000,5290
+LBY,Libya,Africa,6310434,12980
+NGA,Nigeria,Africa,154000000,2710
+GHA,Ghana,Africa,24200000,1590
+CIV,Cote dIvoire,Africa,20617068,1450
+CMR,Cameroon,Africa,19406100,1290
+SEN,Senegal,Africa,12534000,1050
+KEN,Kenya,Africa,39002772,1160
+TZA,Tanzania,Africa,41892895,920
+UGA,Uganda,Africa,32369558,670
+ETH,Ethiopia,Africa,85237338,550
+MOZ,Mozambique,Africa,21669278,620
+MDG,Madagascar,Africa,20653556,430
+MWI,Malawi,Africa,15028757,340
+ZMB,Zambia,Africa,13046508,1680
+ZWE,Zimbabwe,Africa,11392629,840
+RWA,Rwanda,Africa,10473282,700
+BDI,Burundi,Africa,8988091,280
+CHN,China,Asia,1331260000,7380
+IND,India,Asia,1166079217,1570
+IDN,Indonesia,Asia,240271522,3630
+PAK,Pakistan,Asia,166000000,1360
+BGD,Bangladesh,Asia,162221000,1080
+PHL,Philippines,Asia,92226600,3270
+VNM,Vietnam,Asia,86930000,1890
+THA,Thailand,Asia,65905410,5370
+MYS,Malaysia,Asia,27914469,10660
+IRN,Iran,Asia,70495782,5780
+IRQ,Iraq,Asia,31234000,6500
+SYR,Syrian Arab Republic,Asia,21906000,1850
+JOR,Jordan,Asia,6269285,5160
+LBN,Lebanon,Asia,4017095,9870
+OMN,Oman,Asia,2694094,19930
+BHR,Bahrain,Asia,738004,21560
+YEM,Yemen,Asia,23580000,1300
+KAZ,Kazakhstan,Asia,16196800,11550
+UZB,Uzbekistan,Asia,27606007,1900
+TKM,Turkmenistan,Asia,5110000,7230
+AZE,Azerbaijan,Asia,8997400,7600
+GEO,Georgia,Asia,4382100,3570
+ARM,Armenia,Asia,3083616,3570
+RUS,Russian Federation,Europe,141927297,13210
+TUR,Turkey,Europe,71517100,10830
+UKR,Ukraine,Europe,45700395,3540
+ROM,Romania,Europe,21498616,9400
+BGR,Bulgaria,Europe,7262675,7420
+HRV,Croatia,Europe,4435056,13340
+SRB,Serbia,Europe,9856000,5820
+BIH,Bosnia and Herzegovina,Europe,3760149,4780
+MKD,Macedonia FYR,Europe,2061315,4800
+ALB,Albania,Europe,3639453,4450
+MDA,Moldova,Europe,4317483,2560
+BLR,Belarus,Europe,9648533,7970
+NZL2,New Caledonia,Oceania,250000,36500
+PNG,Papua New Guinea,Oceania,6900000,2010
+FJI,Fiji,Oceania,849000,4290
+WSM,Samoa,Oceania,179186,3590
+VUT,Vanuatu,Oceania,240000,3130
